@@ -1,0 +1,4 @@
+bad login of ./SIMBA_jobstatus.dat attempt 1 in start
+good login of ./SIMBA_jobstatus.dat in start
+good login of ./SIMBA_jobstatus.dat in get_args
+good login of ./SIMBA_jobstatus.dat in finish
