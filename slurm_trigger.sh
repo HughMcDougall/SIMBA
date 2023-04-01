@@ -1,5 +1,5 @@
 #!/bin/bash
-#SBATCH --job-name=getafixtestjob
+#SBATCH --job-name=SIMBAtest
 #SBATCH --nodes=1
 #SBATCH --ntasks-per-node=1
 #SBATCH --mem-per-cpu=1G
