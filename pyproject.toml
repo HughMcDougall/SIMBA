@@ -4,6 +4,7 @@ version = "0.0.1"
 authors = [
   { name="Hugh McDougall", email="hughmcdougallemail@gmail.com" },
 ]
+
 description = "An example package"
 readme = "README.md"
 requires-python = ">=3.7"
@@ -16,3 +17,8 @@ classifiers = [
 [project.urls]
 "Homepage" = "https://github.com/HughMcDougall/SIMBA"
 "Bug Tracker" = "https://github.com/HughMcDougall/SIMBA"
+
+[build-system]
+requires = [
+    "pandas",
+]
