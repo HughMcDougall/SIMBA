@@ -1,3 +1,5 @@
+from . import subfolder
+
 from . SIMBA import * #Unload all of the contents
 from .module_1 import *
 
