@@ -1,6 +1,7 @@
 __all__ = ["module_1"]
 
 from .SIMBA import *
+from .module_1 import *
 
 __author__ = "Hugh McDougall"
 __email__ = "hughmcdougallemaiL@gmail.com"
