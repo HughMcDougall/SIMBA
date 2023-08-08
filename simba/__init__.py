@@ -1,4 +1,4 @@
-from SIMBA.SIMBA import *
+from .SIMBA import *
 
 __author__ = "Hugh McDougall"
 __email__ = "hughmcdougallemaiL@gmail.com"
