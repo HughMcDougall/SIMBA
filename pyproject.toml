@@ -1,3 +1,7 @@
+[build-system]
+requires = ["setuptools>=61.0","pandas"]
+build-backend = "setuptools.build_meta"
+
 [project]
 name = "SIMBA"
 version = "0.0.1"
@@ -17,8 +21,3 @@ classifiers = [
 [project.urls]
 "Homepage" = "https://github.com/HughMcDougall/SIMBA"
 "Bug Tracker" = "https://github.com/HughMcDougall/SIMBA"
-
-[build-system]
-requires = [
-    "pandas",
-]
