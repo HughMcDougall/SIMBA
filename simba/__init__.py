@@ -1,3 +1,5 @@
+__all__ = []
+
 from .SIMBA import *
 
 __author__ = "Hugh McDougall"
